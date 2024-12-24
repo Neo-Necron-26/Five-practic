@@ -20,6 +20,6 @@ def f3(x, n):
         answer += ((-1)**i) * (x**(2 * i) / factorial(2 * i))
     return answer
 ```
-![Beluga](https://github.com/user-attachments/assets/676a7e45-1bb5-407c-982e-4721a1ee3394)
-***Beluga***
+![Bin]([https://github.com/user-attachments/assets/676a7e45-1bb5-407c-982e-4721a1ee3394](https://static.kinoafisha.info/k/articles/1200/upload/articles/762839970828.jpg))
+***Bin***
 
